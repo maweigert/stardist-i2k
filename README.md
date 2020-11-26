@@ -27,7 +27,7 @@ Before you do that, please be aware that you need a C++ compiler, which is typic
 
 (If you need help with managing conda environments, please see [this guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).)
 
-## Linux and Windows
+### Linux and Windows
 
 If you have a CUDA-compatible GPU, try to install `environment-gpu-opencl.yml`:
 
