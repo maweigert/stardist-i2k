@@ -27,6 +27,10 @@ This section is intended for those who want a local installation of Python with 
 2. You need a C++ compiler to install StarDist. Please see [this](https://github.com/mpicbg-csbd/stardist#troubleshooting) for details.
 3. Create a new environment (with name `i2k-2020`) via the provided environment files (see below).  
    (If you need help with managing conda environments, please see [this guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).)
+4. Activate the new environment:
+   ```console
+   $ conda activate i2k-2020
+   ```
 
 ### Linux and Windows
 
