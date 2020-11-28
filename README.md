@@ -9,12 +9,16 @@
 
 
 
-## Schedule
+## Schedule (4h)
 
-
-* 0:00:   Introduction 
-* 0:15:   Introduction of participants and their problems (2 slides, 90s)
-* 1:00:   Overview talk of csbdeep and stardist 
+* 0:00   Introduction of tutorial 
+* 0:10   Introduction of participants stating their motivation (1 slide, 1min in total)
+* 0:40   Overview talk of csbdeep and stardist (Martin)
+* 1:40   Dive into Tech talk (Uwe)
+* 2:00   Break (15 mins)    
+* 2:15   Assignment to Groups (breakout rooms)    
+* 2:30   Group work, tutorial notebooks  
+* 3:45   Wrap up 
 
 
 ## Python installation
@@ -60,3 +64,32 @@ The easiest way to get all example notebooks is by downloading a copy of the res
 
 - [CSBDeep](https://github.com/CSBDeep/CSBDeep/archive/dev.zip) (zip file)
 - [StarDist](https://github.com/mpicbg-csbd/stardist/archive/dev.zip) (zip file)
+
+### Google Colab 
+
+ [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/master/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
+ 
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/master/notebooks/stardist_example_2D_colab.ipynb)  StarDist example notebook
+
+## Other ideas
+
+Groups:
+
+restoration vs stardist 2d vs stardistd 3d vs custom hacking 
+
+we will visit every group every ~15 mins and discuss the specific problems  
+
+
+
+To prepare from participants:
+
+* 1 slide (1min in total) with an example image and the analysis problem that you want to solve (and that is relevant to this tutorial). 
+You will be asked to share your screen at the beginning of the tutorial for 1 min to present this slide. (Note that the turoial will be recorded. Please let us know if you don't want this and we will remove your section from the final recording)  
+
+* GPU accelerated tensorflow/python environment:
+
+	either: 
+	- use your own system/environment, 
+		see the list of requirements to install (FIXME)
+		
+	- create or activate your Google colab account
