@@ -44,12 +44,12 @@ This section is intended for those who want a local installation of Python with 
 
 ### Linux and Windows
 
-If you have a CUDA-compatible GPU, try to install [`environment-gpu.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment-gpu.yml):
+If you have a CUDA-compatible GPU, try to install [`environment-gpu.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment-gpu.yml?raw=1):
 ```console
 $ conda env create -f environment-gpu.yml
 ```
 
-If this fails, you may try to manually install the [specific versions of CUDA and cuDNN](https://www.tensorflow.org/install/gpu#software_requirements) that are compatible with version 2.3.x of TensorFlow. Without this, computation will run on the CPU only. Then proceed with [`environment.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment.yml):
+If this fails, you may try to manually install the [specific versions of CUDA and cuDNN](https://www.tensorflow.org/install/gpu#software_requirements) that are compatible with version 2.3.x of TensorFlow. Without this, computation will run on the CPU only. Then proceed with [`environment.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment.yml?raw=1):
 ```console
 $ conda remove --name i2k-2020 --all
 $ conda env create -f environment.yml
@@ -57,7 +57,7 @@ $ conda env create -f environment.yml
 
 ### macOS
 
-There is no GPU support for TensorFlow on macOS, hence you can only install [`environment.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment.yml) (and using `gcc` instead of the clang compiler, cf. [this](https://github.com/mpicbg-csbd/stardist#macos)):
+There is no GPU support for TensorFlow on macOS, hence you can only install [`environment.yml`](https://github.com/maweigert/stardist-i2k/blob/main/environment.yml?raw=1) (and using `gcc` instead of the clang compiler, cf. [this](https://github.com/mpicbg-csbd/stardist#macos)):
 
 ```console
 $ CC=gcc-10 CXX=g++-10 conda env create -f environment.yml
