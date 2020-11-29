@@ -16,7 +16,7 @@
 * 3:45   Wrap up 
 
 
-## Particpants Preparation 
+## Participants Preparation 
 
 
 * 1 slide (1min in total) with an example image and the analysis problem that you want to solve (and that is relevant to this tutorial). 
