@@ -1,12 +1,7 @@
-# stardist-i2k
-
-
+# CSBDeep and StarDist @ I2K 2020
 
 * Session 1: Monday, 30th November  15:00-19:00 UTC (16:00-20:00 CET) (10am-2pm ET)
 * Session 2: Wednesday, 1st December 08:00-12:00 UTC (9:00-13:00 CET) (3am-7am ET)
-
-
-
 
 
 ## Schedule (4h)
@@ -25,7 +20,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maweigert/stardist-i2k/HEAD)
 
-This section is intended for those who want a local installation of Python with [CSBDeep](https://github.com/CSBDeep/CSBDeep) and [StarDist](https://github.com/mpicbg-csbd/stardist) packages. Alternatively, you can have a Jupyter server in the cloud via [Binder](https://mybinder.org/v2/gh/maweigert/stardist-i2k/HEAD) (no GPU) or Google Colab (TODO).
+This section is intended for those who want a local installation of Python with [CSBDeep](https://github.com/CSBDeep/CSBDeep) and [StarDist](https://github.com/mpicbg-csbd/stardist) packages. Alternatively, you can run the [example notebooks](#example-notebooks) in the cloud via [Binder](https://mybinder.org/v2/gh/maweigert/stardist-i2k/HEAD) (no GPU) or Google Colab (see below).
 
 1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) (or [Anaconda](https://www.anaconda.com/distribution/)).
 2. You need a C++ compiler to install StarDist. Please see [this](https://github.com/mpicbg-csbd/stardist#troubleshooting) for details.
@@ -67,10 +62,9 @@ The easiest way to get all example notebooks is by downloading a copy of the res
 
 ### Google Colab 
 
- [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
  
- 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb)  StarDist example notebook
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist example notebook
 
 ## Other ideas
 
