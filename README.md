@@ -16,7 +16,18 @@
 * 3:45   Wrap up 
 
 
-## Python installation
+## Particpants Preparation 
+
+
+* 1 slide (1min in total) with an example image and the analysis problem that you want to solve (and that is relevant to this tutorial). 
+You will be asked to share your screen at the beginning of the tutorial for 1 min to present this slide. (Note that the turoial will be recorded. Please let us know if you don't want this and we will remove your section from the final recording)  
+
+* prepare a Python/tensorflow environment, either
+    - (A) use your own system/environment (with a GPU)
+    - (B) create or activate your Google colab account
+  See below for detailed instructions
+
+## (A) Own Python installation
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maweigert/stardist-i2k/HEAD)
 
@@ -53,38 +64,21 @@ There is no GPU support for TensorFlow on macOS, hence you can only install `env
 $ CC=gcc-10 CXX=g++-10 conda env create -f environment.yml
 ```
 
-## Example notebooks
+### Example notebooks
 
 The easiest way to get all example notebooks is by downloading a copy of the respective git repositories:
 
 - [CSBDeep](https://github.com/CSBDeep/CSBDeep/archive/dev.zip) (zip file)
 - [StarDist](https://github.com/mpicbg-csbd/stardist/archive/dev.zip) (zip file)
 
-### Google Colab 
+## (B) Google Colab 
+
+Make sure you have a google account (https://accounts.google.com)
+
+The the tutorial notebooks are available here:
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
  
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist example notebook
 
-## Other ideas
 
-Groups:
-
-restoration vs stardist 2d vs stardistd 3d vs custom hacking 
-
-we will visit every group every ~15 mins and discuss the specific problems  
-
-
-
-To prepare from participants:
-
-* 1 slide (1min in total) with an example image and the analysis problem that you want to solve (and that is relevant to this tutorial). 
-You will be asked to share your screen at the beginning of the tutorial for 1 min to present this slide. (Note that the turoial will be recorded. Please let us know if you don't want this and we will remove your section from the final recording)  
-
-* GPU accelerated tensorflow/python environment:
-
-	either: 
-	- use your own system/environment, 
-		see the list of requirements to install (FIXME)
-		
-	- create or activate your Google colab account
