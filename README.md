@@ -74,8 +74,10 @@ The easiest way to get all example notebooks is by downloading a copy of the res
 
 Make sure you have a Google account (https://accounts.google.com)
 
-The the tutorial notebooks are available here:
+The tutorial notebooks are available here:
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
  
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist example notebook
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/technical.ipynb) Technical details example notebook
