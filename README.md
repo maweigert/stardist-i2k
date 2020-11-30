@@ -8,6 +8,10 @@ https://www.janelia.org/sites/default/files/You%20%2B%20Janelia/Conferences/i2k2
 * Session 1: Monday, 30th November  15:00-19:00 UTC (16:00-20:00 CET) (10am-2pm ET)
 * Session 2: Wednesday, 1st December 08:00-12:00 UTC (9:00-13:00 CET) (3am-7am ET)
 
+Slack:
+
+`#deep-learning-based-object-segmentation-and-img-restoration-stardist-and-csbdeep`
+
 
 ## Tentative Schedule (4h)
 
