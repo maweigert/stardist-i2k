@@ -28,7 +28,7 @@ https://www.janelia.org/sites/default/files/You%20%2B%20Janelia/Conferences/i2k2
 ## Participants Preparation 
 
 * 1 slide (1min in total) with an example image and the analysis problem that you want to solve (and that is relevant to this tutorial). 
-You will be asked to share your screen at the beginning of the tutorial for 1 min to present this slide. (Note that the turoial will be recorded. Please let us know if you don't want this and we will remove your section from the final recording.)  
+You will be asked to share your screen at the beginning of the tutorial for 1 min to present this slide. (Note that the tutorial will be recorded. Please let us know if you don't want this and we will remove your section from the final recording.)  
 
 * Prepare a Python environment, either
     - (A) use your own system/environment (with a GPU)
