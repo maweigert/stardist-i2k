@@ -85,8 +85,10 @@ Make sure you have a Google account (https://accounts.google.com)
 
 The tutorial notebooks are available here:
 
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE denoising/upsampling example notebook
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE 2D denoising/upsampling example notebook
  
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist example notebook
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist 2D example notebook
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_3D_colab.ipynb) StarDist 3D example notebook
 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/technical.ipynb) Technical details example notebook
