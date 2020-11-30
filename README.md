@@ -85,17 +85,17 @@ Make sure you have a Google account (https://accounts.google.com)
 
 The tutorial notebooks are available here:
 
-### Image restoration 2D 
+### 1. Image restoration 2D 
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/care_example_denoising_upsampling_2D_colab.ipynb) CARE 2D denoising/upsampling example notebook
  
- ### StarDist 2D
+### 2. StarDist 2D
  
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_2D_colab.ipynb) StarDist 2D example notebook
 
- ### StarDist 3D
+ ### 3. StarDist 3D
  
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/stardist_example_3D_colab.ipynb) StarDist 3D example notebook
 
- ### Advanced technical details (train your own network, use the library)
+ ### 4. Advanced technical details (train your own network, use the library)
  
 [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maweigert/stardist-i2k/blob/main/notebooks/technical.ipynb) Technical details example notebook
