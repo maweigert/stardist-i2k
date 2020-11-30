@@ -1,3 +1,8 @@
+# I2K schedule (all)
+
+https://www.janelia.org/sites/default/files/You%20%2B%20Janelia/Conferences/i2k2020-program.pdf
+
+
 # CSBDeep and StarDist @ I2K 2020
 
 * Session 1: Monday, 30th November  15:00-19:00 UTC (16:00-20:00 CET) (10am-2pm ET)
